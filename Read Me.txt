@@ -1,0 +1,10 @@
+This repository contains the Jupyter Notebook, backend, and frontend code developed by Christabel Eseosa Iyamu for Heart Disease Prediction using a Machine learning approach. The project leverages a dataset from Kaggle repository and uses Python for data analysis and model development, with the Flask framework supporting a web application interface.
+
+
+Jupyter Notebook (Heart Disease Prediction.ipynb): Contains Python code for data preprocessing, analysis, and machine learning model training. Jupyter Notebooks are interactive documents that allow the execution of code in segments, making it ideal for exploratory data analysis and iterative model training.
+
+App.py (Backend): This file contains the backend code written in Python using the Flask framework. Flask is a lightweight WSGI web application framework designed to make getting started quick and easy, with the ability to scale up to complex applications.
+
+Templates (Front End): Contains HTML files and associated assets for the web application's user interface. These files define how the web application looks and behaves in the browser.
+
+Final_HD_Model.pkl contains the best machine learning model which was saved as Python pickle file for easy loading of the model.
